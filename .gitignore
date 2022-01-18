@@ -28,3 +28,4 @@ metaprogramming-*.tar
 .elixir_ls
 .vscode
 .idea
+*.DS_Store
